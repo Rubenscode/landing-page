@@ -1,0 +1,9 @@
+nav a.nav-link, .navbar-light .navbar-nav .nav-link {
+    color: #75bba1;
+}
+
+.img-carrossel {
+    margin: auto;
+    margin-bottom: 50px;
+    display: flex;
+}
